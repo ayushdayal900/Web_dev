@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+}
+.poster{
+    margin-top: 70px;
+    color: white;
+    text-align: center;
+}
+.image{
+    border: 5px solid white;
+}
